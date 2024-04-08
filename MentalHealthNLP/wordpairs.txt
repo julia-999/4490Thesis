@@ -1,0 +1,9 @@
+input for experiment
+
+word_pairs
+joy, sadness, melancholy, apathy, anxiety
+happy, neutral, sad, love, relaxed
+hate, uneasy, suffering, depression, nightmares
+angry, pleasure, tiredness, fine, motivation
+stress, sleeplessness, pain, anger, helplessness
+
